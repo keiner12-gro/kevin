@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914647704295",
+    "project_id": "harvest-monitoring-7b2ad",
+    "storage_bucket": "harvest-monitoring-7b2ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914647704295:android:b3d16566e038b019f67842",
+        "android_client_info": {
+          "package_name": "com.example.mi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkdiPNWLq8iBOagYOieKw_geU4AOseOEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
